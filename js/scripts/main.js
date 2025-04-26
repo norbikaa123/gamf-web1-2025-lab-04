@@ -1,4 +1,4 @@
-import { getAll } from "./db";
+import { getAll } from './db.js';
 
 const generateTable = (data=[]) => {
     console.log(data);
